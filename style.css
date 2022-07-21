@@ -19,10 +19,12 @@ body {
 
 .instagram-wrapper {
     display: flex;
+    padding: 10px;
     align-items: center;
     justify-content: start;
     width: 60%;
     height: 100vh;
+    
 }
 
 .instagram-phone {
